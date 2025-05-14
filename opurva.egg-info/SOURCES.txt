@@ -1,4 +1,6 @@
+LICENSE
 README.md
+setup.cfg
 setup.py
 opurva/__init__.py
 opurva.egg-info/PKG-INFO
