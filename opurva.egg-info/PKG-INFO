@@ -1,11 +1,11 @@
-Metadata-Version: 2.1
+Metadata-Version: 2.4
 Name: opurva
-Version: 1.0.5
+Version: 1.0.0
 Summary: sdk for opurva api
 Home-page: https://github.com/opurvas/opurva-python.git
-Author: Support
-Author-email: support@opurva.com
-License: UNKNOWN
+Author: opurva
+Author-email: therajatkumargoyal@gmail.com
+License: MIT
 Description: # opurva-python
         
         
@@ -13,12 +13,11 @@ Description: # opurva-python
         
         This library supports the following Python implementations:
         
-        * Python 2.7
-        * Python 3.4
-        * Python 3.5
-        * Python 3.6
-        * Python 3.7
-        * Python 3.8
+        - Python 3.7
+        - Python 3.8
+        - Python 3.9
+        - Python 3.10
+        - Python 3.11
         
         ## Installation
         

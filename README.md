@@ -5,19 +5,18 @@
 
 This library supports the following Python implementations:
 
-* Python 2.7
-* Python 3.4
-* Python 3.5
-* Python 3.6
-* Python 3.7
-* Python 3.8
+- Python 3.7
+- Python 3.8
+- Python 3.9
+- Python 3.10
+- Python 3.11
 
 ## Installation
 
 Install from PyPi using [pip](https://pip.pypa.io/en/latest/), a
 package manager for Python.
 
-    pip install opurva
+    pip3 install opurva
 
 If pip install fails on Windows, check the path length of the directory. If it is greater 260 characters then enable [Long Paths](https://docs.microsoft.com/en-us/windows/win32/fileio/maximum-file-path-limitation) or choose other shorter location.
 
